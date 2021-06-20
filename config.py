@@ -1,0 +1,8 @@
+SAVING_DATA_PATH = "models_data"
+
+#_______________________Json Keys_______________________
+
+NAME_OF_MODEL_KEY = "NAME_ID"
+MODEL_OF_NUMBER_KEY = "MODEL"
+NUMBER_OF_RAW_POINTS_KEY = "RAW_POINTS"
+NUMBER_OF_COLUMN_POINTS_KEY = "COLUMN_POINTS"
